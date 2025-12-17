@@ -9,7 +9,7 @@ set(CMAKE_CXX_FLAGS "-Os")
 
 set(CMAKE_CXX_STANDARD 17)
 
-INCLUDE_DIRECTORIES(/mnt/data_server/hoeller/toad3/code/libfst/share/include)
+INCLUDE_DIRECTORIES(/usr/include)
 
 add_executable(toad main.cpp
         htnModel/Model.cpp htnModel/ProgressionNetwork.cpp
@@ -20,5 +20,4 @@ add_executable(toad main.cpp
         utils/IntUtil.cpp utils/noDelIntSet.cpp utils/IntPairHeap.cpp utils/IntStack.cpp utils/StringUtil.cpp
         ModelWriter.cpp SASWriter.cpp)
 
-target_link_libraries (toad /mnt/data_server/hoeller/toad3/code/libfst/openfst-1.8.2/src/lib/.libs/libfst.so)
-#target_link_libraries (toad libfst.so)
+target_link_libraries (toad /usr/lib/x86_64-linux-gnu/libfst.so)
