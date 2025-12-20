@@ -1,85 +1,85 @@
 [
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/main.cpp.o -c /home/rahul/Desktop/toad/toad-planner/main.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/main.cpp.o -c /home/rahul/Desktop/toad/toad-planner/main.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/main.cpp",
   "output": "CMakeFiles/toad.dir/main.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/htnModel/Model.cpp.o -c /home/rahul/Desktop/toad/toad-planner/htnModel/Model.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/htnModel/Model.cpp.o -c /home/rahul/Desktop/toad/toad-planner/htnModel/Model.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/htnModel/Model.cpp",
   "output": "CMakeFiles/toad.dir/htnModel/Model.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/htnModel/ProgressionNetwork.cpp.o -c /home/rahul/Desktop/toad/toad-planner/htnModel/ProgressionNetwork.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/htnModel/ProgressionNetwork.cpp.o -c /home/rahul/Desktop/toad/toad-planner/htnModel/ProgressionNetwork.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/htnModel/ProgressionNetwork.cpp",
   "output": "CMakeFiles/toad.dir/htnModel/ProgressionNetwork.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/translation/CFGtoFDAtranslator.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/CFGtoFDAtranslator.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/translation/CFGtoFDAtranslator.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/CFGtoFDAtranslator.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/translation/CFGtoFDAtranslator.cpp",
   "output": "CMakeFiles/toad.dir/translation/CFGtoFDAtranslator.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/translation/CFtoRegGrammarEnc.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/CFtoRegGrammarEnc.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/translation/CFtoRegGrammarEnc.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/CFtoRegGrammarEnc.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/translation/CFtoRegGrammarEnc.cpp",
   "output": "CMakeFiles/toad.dir/translation/CFtoRegGrammarEnc.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/translation/StateBasedReachability.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/StateBasedReachability.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/translation/StateBasedReachability.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/StateBasedReachability.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/translation/StateBasedReachability.cpp",
   "output": "CMakeFiles/toad.dir/translation/StateBasedReachability.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/translation/HeuFaDist.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/HeuFaDist.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/translation/HeuFaDist.cpp.o -c /home/rahul/Desktop/toad/toad-planner/translation/HeuFaDist.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/translation/HeuFaDist.cpp",
   "output": "CMakeFiles/toad.dir/translation/HeuFaDist.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntUtil.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntUtil.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntUtil.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntUtil.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/utils/IntUtil.cpp",
   "output": "CMakeFiles/toad.dir/utils/IntUtil.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/utils/noDelIntSet.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/noDelIntSet.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/utils/noDelIntSet.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/noDelIntSet.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/utils/noDelIntSet.cpp",
   "output": "CMakeFiles/toad.dir/utils/noDelIntSet.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntPairHeap.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntPairHeap.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntPairHeap.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntPairHeap.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/utils/IntPairHeap.cpp",
   "output": "CMakeFiles/toad.dir/utils/IntPairHeap.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntStack.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntStack.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/utils/IntStack.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/IntStack.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/utils/IntStack.cpp",
   "output": "CMakeFiles/toad.dir/utils/IntStack.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/utils/StringUtil.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/StringUtil.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/utils/StringUtil.cpp.o -c /home/rahul/Desktop/toad/toad-planner/utils/StringUtil.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/utils/StringUtil.cpp",
   "output": "CMakeFiles/toad.dir/utils/StringUtil.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/ModelWriter.cpp.o -c /home/rahul/Desktop/toad/toad-planner/ModelWriter.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/ModelWriter.cpp.o -c /home/rahul/Desktop/toad/toad-planner/ModelWriter.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/ModelWriter.cpp",
   "output": "CMakeFiles/toad.dir/ModelWriter.cpp.o"
 },
 {
   "directory": "/home/rahul/Desktop/toad/toad-planner/build",
-  "command": "/usr/bin/c++   -Os -std=gnu++17 -o CMakeFiles/toad.dir/SASWriter.cpp.o -c /home/rahul/Desktop/toad/toad-planner/SASWriter.cpp",
+  "command": "/usr/bin/c++   -Os -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles/toad.dir/SASWriter.cpp.o -c /home/rahul/Desktop/toad/toad-planner/SASWriter.cpp",
   "file": "/home/rahul/Desktop/toad/toad-planner/SASWriter.cpp",
   "output": "CMakeFiles/toad.dir/SASWriter.cpp.o"
 }
